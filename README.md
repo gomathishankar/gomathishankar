@@ -6,7 +6,7 @@ Hi 👋, I'am Gomathi Shankar
 
 I am a Test Automation Automation Engineer who loves to create frameworks for API and Web Automation. I love exploring new technologies to see how I could leverage them to contribute towards my customer success , and to keep me motivated. 
 
-Skills  : Java, Rest Assured, Selenium, Git, WireMock, Github Actions, Postman, Docker, TestNG, Adobe Experience Manager (AEM)
+Skills  : Java, Rest Assured, Selenium, Git, WireMock, Github Actions, Postman, Docker, TestNG, Adobe Experience Manager (AEM), Accessibility Testing
 
 - 🔭 I’m currently working on: Exploratory Testing and Automation of Microservices
 - 🌱 I’m currently learning: Spring framework and Spring Boot Microservice Development , Kubernetes
