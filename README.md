@@ -8,7 +8,6 @@ I am a Test Automation Automation Engineer who loves to create frameworks for AP
 
 Skills  : Java, Rest Assured, Selenium, Git, WireMock, Github Actions, Postman, Docker, TestNG, Adobe Experience Manager (AEM), Accessibility Testing
 
-- 🔭 I’m currently working on: Exploratory Testing and Automation of Microservices
 - 🌱 I’m currently learning: Spring framework and Spring Boot Microservice Development , Kubernetes
-- 💬 Ask me about: Testing and Automation of Web Application, Microservices and Sites,Asserts built using AEM 
+- 💬 Ask me about: Testing and Automation of Web Application, Microservices and Sites,Assets built using AEM 
 - 📫 How to reach me:  gomathishankarls@gmail.com , https://www.linkedin.com/in/lsgshankar/
